@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Meachine Learning and AI**
 
-- 💬 Ask me about **ML and AI**
+- 💬 Ask me about **ML and AI and Matlab**
 
 - 📫 How to reach me **mhmdesmayl96@gmail.com**
 
