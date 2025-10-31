@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Esmayl Nikbakhsh</h1> 
-<h3 align="center">I'm control Engineering student at K.N.Toosi University of Technology.</h3>
+<h3 align="center">I'm control Engineering student.</h3>
 
 - 🔭 I’m currently working on **ML,DL,CV,LLM**
 
