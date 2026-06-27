@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Esmayl Nikbakhsh</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Esmail Nikbakhsh</h1>
 <h3 align="center">Control Engineering student | ML, DL, CV & AI Enthusiast</h3>
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Computer Vision, and Large Language Models**.  
