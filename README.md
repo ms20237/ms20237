@@ -14,9 +14,6 @@
   <a href="https://kaggle.com/ms20237" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://github.com/ms20237" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
