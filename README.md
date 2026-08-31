@@ -2,7 +2,7 @@
 <h3 align="center">Control Engineering student | ML, DL, CV & AI Enthusiast</h3>
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Computer Vision, and Large Language Models**.  
-- 🌱 I’m learning **Advanced AI, Pose Estimation, EEG & Neuroscience Data Analysis, and Control Systems**.  
+- 🌱 I’m learning **Advanced AI, Neuroscience Data Analysis, and Control Systems**.  
 - 💬 Ask me about **ML, DL, CV, LLMs, and control engineering applications**.  
 - 📫 How to reach me: **mhmdesmayl96@gmail.com**  
 
