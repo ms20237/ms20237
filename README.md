@@ -51,6 +51,6 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ms20237&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms20237&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
-
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms20237&theme=tokyonight&hide_border=true" /> </p>
+
+<p align="center"> <i>Building intelligent systems at the intersection of AI, Computer Vision, and Control Engineering.</i> </p>
