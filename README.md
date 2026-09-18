@@ -51,8 +51,7 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms20237&theme=tokyonight&hide_border=true" /> </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ms20237&theme=yeblu" alt="GitHub Streak" /></a>
 
 <p align="center"> <i>Building intelligent systems at the intersection of AI, Computer Vision, and Control Engineering.</i> </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ms20237&theme=yeblu" alt="GitHub Streak" /></a>
