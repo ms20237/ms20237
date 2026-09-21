@@ -52,7 +52,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=ms20237&theme=dark)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ms20237&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center"> <i>Building intelligent systems at the intersection of AI, Computer Vision, and Control Engineering.</i> </p>
